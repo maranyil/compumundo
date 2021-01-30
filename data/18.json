@@ -1,0 +1,17 @@
+{
+    "stock": {
+        "id": 18,
+        "name": "Nintendo Switch Lite",
+        "price": 5599,
+        "olderPrice": 5999,
+        "savings": 400,
+        "colors": [
+            "roja",
+            "azul",
+            "amarilla"
+        ],
+        "category": "Videojuegos",
+        "description": "Ahora Nintendo Switch en la versión portatil. Lleva tus juegos a todos lados con el mayor estilo.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHMpvjewaxNE_n5Vr2keofBjakCv_nwbbgDR2MdW1K-L2edAsBkmccpvIl7zdo-ed72cEhiioF&usqp=CAc"
+    }
+}

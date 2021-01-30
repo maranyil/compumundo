@@ -1,0 +1,294 @@
+{
+    "stock": [
+        {
+            "id": 1,
+            "name": "Celular Hyundai Eternity",
+            "price": 1499,
+            "olderPrice": 2690,
+            "savings": 1191,
+            "colors": [
+                "azul",
+                "rosa",
+                "morado",
+                "negro"
+            ],
+            "category": "Telefonía",
+            "description": "Teléfono celular avanzado, a un precio insuperable.",
+            "image": "https://www.elektra.com.mx/arquivos/ids/2222907-250-250/1500340725.jpg"
+        },
+        {
+            "id": 2,
+            "name": "JBL CLIP2",
+            "price": 1428,
+            "olderPrice": 1458,
+            "savings": 30,
+            "colors": [
+                "azul",
+                "naranja",
+                "negro"
+            ],
+            "category": "Audio",
+            "description": "Bocina resistente a agua. Colores divertidos y sonido potente.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2hupgkUqF6W4uetD4KRiI43J2JHhGsYxYAfeo8F9i4tM2UjP4OvwZJks_NcVbUDn1SDdlWwRy&usqp=CAc"
+        },
+        {
+            "id": 3,
+            "name": "Alcatel Idol 4",
+            "price": 2899,
+            "olderPrice": 3799,
+            "savings": 900,
+            "colors": [
+                "azul",
+                "negro",
+                "verde"
+            ],
+            "category": "Telefonía",
+            "description": "Alcatel ofrece equipos al alcance de todos los bolsillos. Excelente conexión, cámara, rendimiento y ahora ¡incluye lentes de realidad virtual!.",
+            "image": "https://www.elektra.com.mx/arquivos/ids/2283898-250-250/1500365471.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Samsung J2",
+            "price": 2199,
+            "olderPrice": 1999,
+            "savings": 200,
+            "colors": [
+                "negro"
+            ],
+            "category": "Telefonía",
+            "description": "El equipo más barato y completo de Samsung. Sencillo, potente, integrando Android GO como sistema operativo.",
+            "image": "https://www.elektra.com.mx/arquivos/ids/2167862-400-400/1500322342.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Bocina Echo Dot",
+            "price": 850,
+            "olderPrice": 1000,
+            "savings": 150,
+            "colors": [
+                "azul",
+                "rojo",
+                "negro"
+            ],
+            "category": "Audio",
+            "description": "Echo Dot es una bocina inteligente que se controla con la voz y te conecta con Alexa por Wi-Fi y mucho más.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2hG378zYytieHlCviqOP0KY4mU2Hzf6vuFoSvyhUfSsD-x7oCCvMDo4IXQeaxepzCx3PUqURZ&usqp=CAc"
+        },
+        {
+            "id": 6,
+            "name": "Audífono British Sound",
+            "price": 199,
+            "olderPrice": 299,
+            "savings": 100,
+            "colors": [
+                "negro",
+                "azul"
+            ],
+            "category": "Audio",
+            "description": "Audífono alámbrico de gran calidad de audio. Contiene micrófono y control por botones en el cable.",
+            "image": "https://www.elektra.com.mx/arquivos/ids/2253148-250-250/1500352548.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Xiaomi Redmi Airdots",
+            "price": 569,
+            "olderPrice": 589,
+            "savings": 20,
+            "colors": [
+                "blanco",
+                "negro"
+            ],
+            "category": "Audio",
+            "description": "Diseño inspirado en la simplicidad, con conexión BT 5.0 para que no te pierdas de nada, manteniendo tu estilo.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKlm7UB8BUhJdVVsSKzul5m3oUUyP0Kn_wRQ&usqp=CAU"
+        },
+        {
+            "id": 8,
+            "name": "Sony Audífono MDR",
+            "price": 550,
+            "olderPrice": 589,
+            "savings": 39,
+            "colors": [
+                "azul",
+                "verde",
+                "negro"
+            ],
+            "category": "Audio",
+            "description": "Llamadas manos libres, extra bajo, audio excepcional. Todo con la garantía y confianza de Sony.",
+            "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSvmI0Y1DMwD9hxWRoC33mGSg8SG9PYYCTDAQ7LuA04qQ3n1oiVs7llJfvpBYH77l6fK4dKp3zfvIo&usqp=CAc"
+        },
+        {
+            "id": 9,
+            "name": "Panasonic ",
+            "price": 649,
+            "olderPrice": 739,
+            "savings": 90,
+            "colors": [
+                "gris",
+                "negro",
+                "blanco",
+                "azul"
+            ],
+            "category": "Audio",
+            "description": "Alta potencia de bajos, con calidad de audio excepcional. Perfecto para videollamadas por su diseño.",
+            "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTsa0eAVZVqDsPyvZk4dwsZMC6FHR_Dw2T_4_d0WvRtMWyqP3EL6Lp1bSVsUuiTssZ0yC93_blT-HA&usqp=CAc"
+        },
+        {
+            "id": 10,
+            "name": "Laptop Ghia Libero",
+            "price": 6239,
+            "olderPrice": 6539,
+            "savings": 300,
+            "colors": [
+                "gris"
+            ],
+            "category": "Cómputo",
+            "description": "Computadora ligera, económica, potente y orgullosamente mexicana.",
+            "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ-xY28qNzs7OmI7noMp-8NqW32wkahKdxnP551QhW1X9uDdOKQ3DaRksAPy8iiOo9NrujPMI5J3w&usqp=CAc"
+        },
+        {
+            "id": 11,
+            "name": "Jumper EZBOOK Notebook",
+            "price": 5699,
+            "olderPrice": 5899,
+            "savings": 200,
+            "colors": [
+                "gris",
+                "negro"
+            ],
+            "category": "Cómputo",
+            "description": "Laptop ligera, ideal para estudiantes o el trabajo desde casa.",
+            "image": "https://i.linio.com/p/360dbb42d620a34277cf585d44626081-zoom.webp"
+        },
+        {
+            "id": 12,
+            "name": "Huawei P30",
+            "price": 6319,
+            "olderPrice": 6400,
+            "savings": 81,
+            "colors": [
+                "azul",
+                "rojo",
+                "verde",
+                "negro"
+            ],
+            "category": "Telefonía",
+            "description": "Con Huawei P30 Lite, tendrás la belleza en cada toma, grandiosas cámaras para ser la super estrella de las selfies y capturar cada detalle con su cámara ultra angular. Disfruta de todo tu contenido con una pantalla increíble para ver, hacer y crecer más.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbuw70496LBV4W7KCEnDmEs7RkUXRC7tHdT6bvlu5iBqOhwIOgVsvo1h8C6Q&usqp=CAc"
+        },
+        {
+            "id": 13,
+            "name": "Xiaomi Redmi Note9",
+            "price": 4399,
+            "olderPrice": 4500,
+            "savings": 101,
+            "colors": [
+                "blanco",
+                "negro"
+            ],
+            "category": "Telefonía",
+            "description": "Tu equipo ideal para la vida diaria. Sus 4 cámaras capturan todos tus momentos importantes.",
+            "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSluNfSC5HHZPAOthZOFFS9F4NGcXlLZBo5klckHcZnsvQCtPSEAgCd80t-nXEB7dfosj4iD1UO8OI&usqp=CAc"
+        },
+        {
+            "id": 14,
+            "name": "Samsung Galaxy Buds",
+            "price": 4400,
+            "olderPrice": 4600,
+            "savings": 200,
+            "colors": [
+                "blanco",
+                "negro"
+            ],
+            "category": "Audio",
+            "description": "Diseñados con el altavoz más grande, bajos mejorados y un ajuste abierto, todo al alcance de un toque.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBXEuIa_nyAMtp6UBVpJsbhLhb8U2LWmuNSg&usqp=CAU"
+        },
+        {
+            "id": 15,
+            "name": "Play Station 4",
+            "price": 10299,
+            "olderPrice": 10399,
+            "savings": 100,
+            "colors": [
+                "blanco",
+                "negro"
+            ],
+            "category": "Videojuegos",
+            "description": "Ahora más liviana y más delgada, con disco duro de 1 TB para que disfrutes los mejores juegos.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRf3P1n3L-DRF0sIjG7Yq3DekfvAtPqw9Ys-w&usqp=CAU"
+        },
+        {
+            "id": 16,
+            "name": "XBox One",
+            "price": 9600,
+            "olderPrice": 9799,
+            "savings": 199,
+            "colors": [
+                "blanco",
+                "negro"
+            ],
+            "category": "Videojuegos",
+            "description": "Con 40 % más de potencia que cualquier otra consola, podrás disfrutar de un juego en 4K verdaderamente envolvente.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQe8QJaB2fs2Xh40em8GFRqwcrXZsJ5HCMd4Q&usqp=CAU"
+        },
+        {
+            "id": 17,
+            "name": "Motorola E6",
+            "price": 3100,
+            "olderPrice": 3199,
+            "savings": 99,
+            "colors": [
+                "verde",
+                "morado",
+                "negro"
+            ],
+            "category": "Telefonía",
+            "description": "Este teléfono versátil te ofrece el top de seguridad de la marca Motorola. Entretenimiento en un gran diseño y precio accesible.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNINqiuLr0bi8Lv2AUls6ILOpyGQZvRqc7nD1cHUNZe1v_JEJLa_biRWe_DemAW2iA8kqnYvkA&usqp=CAc"
+        },
+        {
+            "id": 18,
+            "name": "Nintendo Switch Lite",
+            "price": 5599,
+            "olderPrice": 5999,
+            "savings": 400,
+            "colors": [
+                "roja",
+                "azul",
+                "amarilla"
+            ],
+            "category": "Videojuegos",
+            "description": "Ahora Nintendo Switch en la versión portatil. Lleva tus juegos a todos lados con el mayor estilo.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHMpvjewaxNE_n5Vr2keofBjakCv_nwbbgDR2MdW1K-L2edAsBkmccpvIl7zdo-ed72cEhiioF&usqp=CAc"
+        },
+        {
+            "id": 19,
+            "name": "Nokia 8.1",
+            "price": 3899,
+            "olderPrice": 4000,
+            "savings": 30,
+            "colors": [
+                "azul",
+                "rojo",
+                "negro"
+            ],
+            "category": "Telefonía",
+            "description": "El nuevo modelo de la Nueva Nokia. La marca finlandesa regresa con mucho potencial, ofreciendo lector de huellas, pantallas más grandes y una apuesta de trabajo conjunto con Android. Tu movil de siempre, con el software más actual.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQj8QBQ1YE8WPOH9yVUlH8QOIOkilP02RWg7w&usqp=CAU"
+        },
+        {
+            "id": 20,
+            "name": "Consola DreamGear",
+            "price": 599,
+            "olderPrice": 639,
+            "savings": 40,
+            "colors": [
+                "negro"
+            ],
+            "category": "Videojuegos",
+            "description": "Una consola accesible a todos los bolsillos. Diversión garantizada para toda la familia.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTninWffloCOwXHdm_363AFpM6u2JZkaQf3tpoO4Dhxi-AV5Nv8405HDfB-8Y1hFnNtF6OTNsO&usqp=CAc"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "stock": {
+        "id": 15,
+        "name": "Play Station 4",
+        "price": 10299,
+        "olderPrice": 10399,
+        "savings": 100,
+        "colors": [
+            "blanco",
+            "negro"
+        ],
+        "category": "Videojuegos",
+        "description": "La consola PlayStation 4, ahora más liviana y más delgada, tiene un disco duro de 1 TB para que disfrutes los mejores juegos, tu música favorita y mucho más.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRf3P1n3L-DRF0sIjG7Yq3DekfvAtPqw9Ys-w&usqp=CAU"
+    }
+}

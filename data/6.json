@@ -1,0 +1,16 @@
+{
+    "stock": {
+        "id": 6,
+            "name": "Audífono British Sound",
+            "price": 199,
+            "olderPrice": 299,
+            "savings": 100,
+            "colors": [
+                "negro",
+                "azul"
+            ],
+            "category": "Audio",
+            "description": "Audífono alámbrico de gran calidad de audio. Contiene micrófono y control por botones en el cable.",
+            "image": "https://www.elektra.com.mx/arquivos/ids/2253148-250-250/1500352548.jpg"
+    }
+}

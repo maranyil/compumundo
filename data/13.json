@@ -1,0 +1,16 @@
+{
+    "stock":  {
+        "id": 13,
+        "name": "Xiaomi Redmi Note9",
+        "price": 4399,
+        "olderPrice": 4500,
+        "savings": 101,
+        "colors": [
+            "blanco",
+            "negro"
+        ],
+        "category": "Telefonía",
+        "description": "Tu equipo ideal para la vida diaria. Sus 4 cámaras capturan todos tus momentos importantes.",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSluNfSC5HHZPAOthZOFFS9F4NGcXlLZBo5klckHcZnsvQCtPSEAgCd80t-nXEB7dfosj4iD1UO8OI&usqp=CAc"
+    }
+}

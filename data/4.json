@@ -1,0 +1,15 @@
+{
+    "stock": {
+        "id": 4,
+        "name": "Samsung J2",
+        "price": 2199,
+        "olderPrice": 1999,
+        "savings": 200,
+        "colors": [
+            "negro"
+        ],
+        "category": "Telefonía",
+        "description": "El equipo más barato y completo de Samsung. Sencillo, potente, integrando Android GO como sistema operativo.",
+        "image": "https://www.elektra.com.mx/arquivos/ids/2167862-400-400/1500322342.jpg"
+    }
+}

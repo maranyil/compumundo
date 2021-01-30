@@ -1,0 +1,16 @@
+{
+    "stock": {
+        "id": 11,
+        "name": "Jumper EZBOOK Notebook",
+        "price": 5699,
+        "olderPrice": 5899,
+        "savings": 200,
+        "colors": [
+            "gris",
+            "negro"
+        ],
+        "category": "Cómputo",
+        "description": "Laptop ligera, ideal para estudiantes o el trabajo desde casa.",
+        "image": "https://i.linio.com/p/360dbb42d620a34277cf585d44626081-zoom.webp"
+    }
+}

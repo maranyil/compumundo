@@ -1,0 +1,17 @@
+{
+    "stock": {
+        "id": 3,
+        "name": "Alcatel Idol 4",
+        "price": 2899,
+        "olderPrice": 3799,
+        "savings": 900,
+        "colors": [
+            "azul",
+            "negro",
+            "verde"
+        ],
+        "category": "Telefonía",
+        "description": "Alcatel ofrece equipos al alcance de todos los bolsillos. Excelente conexión, cámara, rendimiento y ahora ¡incluye lentes de realidad virtual!.",
+        "image": "https://www.elektra.com.mx/arquivos/ids/2283898-250-250/1500365471.jpg"
+    }
+}

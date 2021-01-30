@@ -1,0 +1,17 @@
+{
+    "stock":  {
+        "id": 2,
+        "name": "JBL CLIP2",
+        "price": 1428,
+        "olderPrice": 1458,
+        "savings": 30,
+        "colors": [
+            "azul",
+            "naranja",
+            "negro"
+        ],
+        "category": "Audio",
+        "description": "Bocina resistente a agua. Colores divertidos y sonido potente.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2hupgkUqF6W4uetD4KRiI43J2JHhGsYxYAfeo8F9i4tM2UjP4OvwZJks_NcVbUDn1SDdlWwRy&usqp=CAc"
+    }
+}

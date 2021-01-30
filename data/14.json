@@ -1,0 +1,16 @@
+{
+    "stock": {
+        "id": 14,
+        "name": "Samsung Galaxy Buds",
+        "price": 4400,
+        "olderPrice": 4600,
+        "savings": 200,
+        "colors": [
+            "blanco",
+            "negro"
+        ],
+        "category": "Audio",
+        "description": "Diseñados con el altavoz Galaxy Buds más grande, bajos mejorados y un ajuste abierto, las listas de reproducción suenan más como música en vivo que nunca. Cuando necesites bloquear el ruido de fondo para una llamada telefónica o una tarea importante, inicia la Cancelación activa de ruido con un toque.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBXEuIa_nyAMtp6UBVpJsbhLhb8U2LWmuNSg&usqp=CAU"
+    }
+}

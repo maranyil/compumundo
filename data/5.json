@@ -1,0 +1,17 @@
+{
+    "stock": {
+        "id": 5,
+        "name": "Bocina Echo Dot",
+        "price": 850,
+        "olderPrice": 1000,
+        "savings": 150,
+        "colors": [
+            "azul",
+            "rojo",
+            "negro"
+        ],
+        "category": "Audio",
+        "description": "Echo Dot es una bocina inteligente que se controla con la voz y te conecta con Alexa por Wi-Fi y mucho más.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2hG378zYytieHlCviqOP0KY4mU2Hzf6vuFoSvyhUfSsD-x7oCCvMDo4IXQeaxepzCx3PUqURZ&usqp=CAc"
+    }
+}

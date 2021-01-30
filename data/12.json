@@ -1,0 +1,18 @@
+{
+    "stock": {
+        "id": 12,
+        "name": "Huawei P30",
+        "price": 6319,
+        "olderPrice": 6400,
+        "savings": 81,
+        "colors": [
+            "azul",
+            "rojo",
+            "verde",
+            "negro"
+        ],
+        "category": "Telefonía",
+        "description": "Con Huawei P30 Lite, tendrás la belleza en cada toma, grandiosas cámaras para ser la super estrella de las selfies y capturar cada detalle con su cámara ultra angular. Disfruta de todo tu contenido con una pantalla increíble para ver, hacer y crecer más.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbuw70496LBV4W7KCEnDmEs7RkUXRC7tHdT6bvlu5iBqOhwIOgVsvo1h8C6Q&usqp=CAc"
+    }
+}

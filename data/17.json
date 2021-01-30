@@ -1,0 +1,17 @@
+{
+    "stock": {
+        "id": 17,
+        "name": "Motorola E6",
+        "price": 3100,
+        "olderPrice": 3199,
+        "savings": 99,
+        "colors": [
+            "verde",
+            "morado",
+            "negro"
+        ],
+        "category": "Telefonía",
+        "description": "Con sensor de huella digital y desbloqueo facial, el nuevo moto e6 play te garantiza acceso inmediato a tus aplicaciones y entretenimiento favoritos sin necesidad de una contraseña. Almacena miles de fotos, canciones y videos, y expande de forma sencilla tu memoria con una tarjeta microSD.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNINqiuLr0bi8Lv2AUls6ILOpyGQZvRqc7nD1cHUNZe1v_JEJLa_biRWe_DemAW2iA8kqnYvkA&usqp=CAc"
+    }
+}

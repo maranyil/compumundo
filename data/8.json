@@ -1,0 +1,17 @@
+{
+    "stock": {
+        "id": 8,
+        "name": "Sony Audífono MDR",
+        "price": 550,
+        "olderPrice": 589,
+        "savings": 39,
+        "colors": [
+            "azul",
+            "verde",
+            "negro"
+        ],
+        "category": "Audio",
+        "description": "Llamadas manos libres, extra bajo, audio excepcional. Todo con la garantía y confianza de Sony.",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSvmI0Y1DMwD9hxWRoC33mGSg8SG9PYYCTDAQ7LuA04qQ3n1oiVs7llJfvpBYH77l6fK4dKp3zfvIo&usqp=CAc"
+    }
+}

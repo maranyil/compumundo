@@ -1,0 +1,18 @@
+{
+    "stock": {
+        "id": 9,
+        "name": "Panasonic ",
+        "price": 649,
+        "olderPrice": 739,
+        "savings": 90,
+        "colors": [
+            "gris",
+            "negro",
+            "blanco",
+            "azul"
+        ],
+        "category": "Audio",
+        "description": "Alta potencia de bajos, con calidad de audio excepcional. Perfecto para videollamadas por su diseño.",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTsa0eAVZVqDsPyvZk4dwsZMC6FHR_Dw2T_4_d0WvRtMWyqP3EL6Lp1bSVsUuiTssZ0yC93_blT-HA&usqp=CAc"
+    }
+}

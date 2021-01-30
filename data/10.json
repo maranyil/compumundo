@@ -1,0 +1,15 @@
+{
+    "stock":  {
+        "id": 10,
+        "name": "Laptop Ghia Libero",
+        "price": 6239,
+        "olderPrice": 6539,
+        "savings": 300,
+        "colors": [
+            "gris"
+        ],
+        "category": "Cómputo",
+        "description": "Computadora ligera, económica, potente y orgullosamente mexicana.",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ-xY28qNzs7OmI7noMp-8NqW32wkahKdxnP551QhW1X9uDdOKQ3DaRksAPy8iiOo9NrujPMI5J3w&usqp=CAc"
+    }
+}

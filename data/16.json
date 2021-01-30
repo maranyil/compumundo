@@ -1,0 +1,16 @@
+{
+    "stock": {
+        "id": 16,
+        "name": "XBox One",
+        "price": 9600,
+        "olderPrice": 9799,
+        "savings": 199,
+        "colors": [
+            "blanco",
+            "negro"
+        ],
+        "category": "Videojuegos",
+        "description": "Con 40 % más de potencia que cualquier otra consola, podrás disfrutar de un juego en 4K verdaderamente envolvente. Los juegos simplemente se reproducen mejor en Xbox One X.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQe8QJaB2fs2Xh40em8GFRqwcrXZsJ5HCMd4Q&usqp=CAU"
+    }
+}

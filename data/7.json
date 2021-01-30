@@ -1,0 +1,16 @@
+{
+    "stock": {
+        "id": 7,
+        "name": "Xiaomi Redmi Airdots",
+        "price": 569,
+        "olderPrice": 589,
+        "savings": 20,
+        "colors": [
+            "blanco",
+            "negro"
+        ],
+        "category": "Audio",
+        "description": "Diseño inspirado en la simplicidad, con conexión BT 5.0 para que no te pierdas de nada, manteniendo tu estilo.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKlm7UB8BUhJdVVsSKzul5m3oUUyP0Kn_wRQ&usqp=CAU"
+    }
+}

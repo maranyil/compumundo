@@ -1,0 +1,15 @@
+{
+    "stock": {
+        "id": 20,
+        "name": "Consola DreamGear",
+        "price": 599,
+        "olderPrice": 639,
+        "savings": 40,
+        "colors": [
+            "negro"
+        ],
+        "category": "Videojuegos",
+        "description": "Una consola accesible a todos los bolsillos. Diversión garantizada para toda la familia.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTninWffloCOwXHdm_363AFpM6u2JZkaQf3tpoO4Dhxi-AV5Nv8405HDfB-8Y1hFnNtF6OTNsO&usqp=CAc"
+    }
+}

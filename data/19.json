@@ -1,0 +1,17 @@
+{
+    "stock": {
+        "id": 19,
+        "name": "Nokia 8.1",
+        "price": 3899,
+        "olderPrice": 4000,
+        "savings": 30,
+        "colors": [
+            "azul",
+            "rojo",
+            "negro"
+        ],
+        "category": "Telefonía",
+        "description": "El nuevo modelo de la Nueva Nokia. La marca finlandesa regresa con mucho potencial, ofreciendo lector de huellas, pantallas más grandes y una apuesta de trabajo conjunto con Android. Tu movil de siempre, con el software más actual.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQj8QBQ1YE8WPOH9yVUlH8QOIOkilP02RWg7w&usqp=CAU"
+    }
+}
